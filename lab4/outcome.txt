@@ -1,0 +1,3 @@
+In this experiment, we used 3 routers,2 switches and 4 PC's. We set the IP
+routes using ip route command as well as default gateway and could reach 
+the destination using ping command.
